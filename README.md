@@ -69,9 +69,10 @@ npm run preview
 │ ├─ ResultsTable.vue
 │ └─ Track.vue
 ├─ store/ (vuex modülleri: horses, race vs.)
-├─ models.ts
-├─ horses.ts
-├─ race.ts
+|  ├─ modules
+|    ├─ horses.ts
+|    ├─ race.ts
+|  ├─ index.ts
 ├─ main.ts
 └─ App.vue
 tailwind.css
