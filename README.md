@@ -59,7 +59,9 @@ npm run build
 npm run preview
 ```
 
-src/
+## Project Structure
+
+``` src/
 ├─ components/
 │ ├─ HeaderBar.vue
 │ ├─ HorseTable.vue
@@ -74,3 +76,4 @@ src/
 └─ App.vue
 tailwind.css
 style.css
+```
